@@ -21,7 +21,7 @@ $(function() {
             },
             //长度校验
             stringLength: {
-              min: 6,
+              min: 3,
               max: 30,
               message: "用户名长度必须在6到30之间"
             },
